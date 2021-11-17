@@ -1,4 +1,4 @@
-# personal_management
+# Personal Management
 
 # libs
 
