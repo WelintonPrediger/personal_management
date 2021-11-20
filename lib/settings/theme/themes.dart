@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 
 class Themes {
   final lightTheme = ThemeData.light().copyWith(
+    scaffoldBackgroundColor: Colors.indigo.shade50,
     primaryColor: Colors.indigo,
     appBarTheme: const AppBarTheme(
       titleTextStyle: TextStyle(
