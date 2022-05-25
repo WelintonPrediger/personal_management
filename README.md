@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/+a-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
+![Badge](https://dev-azure.com/GrupoA-Edtech/_git/core_apps_flutter_tools/badge/+aEducação-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
 
 # Personal Management
 
