@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/+a_Educação-Flutter_Tools-%231E90FF?style=flat)
-![Badge](https://img.shields.io/badge/+Version-v1.0.0-%231E90FF?style=flat)
+![Badge](https://img.shields.io/badge/version-1.0.0-%231E90FF?style=flat)
 
 # Personal Management
 
