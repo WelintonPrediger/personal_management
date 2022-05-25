@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/+a Educação-Flutter Tools-%231E90FF?style=flat)
+![Badge](https://img.shields.io/badge/+a Educação-Flutter Tools-%231E90FF?style=flat&logo=ghost)
 
 # Personal Management
 
