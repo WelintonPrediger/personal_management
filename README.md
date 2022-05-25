@@ -1,4 +1,7 @@
 ![Badge](https://img.shields.io/badge/+aEducação-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/+aEducação-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/+aEducação-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/+aEducação-FlutterTools-%231E90FF?style=for-the-badge&logo=ghost)
 
 # Personal Management
 
